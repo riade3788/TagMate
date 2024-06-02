@@ -1,5 +1,5 @@
 What is TagMate 2?
-
+![TagMate 2 GUI]([Image URL](https://ibb.co/9WQgLy5))
 TagMate 2 is a desktop application designed to help you organize your collection of digital art files, specifically those related to Stable Diffusion models.
 
 What does it do?
